@@ -35,10 +35,16 @@ so basically it reads full source once
 - allocating memory 
 heap memory survives the function return 
 
+* main.c   :
+
+- Responsibility: CLI + pipeline entry
 
 
-
-
+* Done : 
+CLI program
+File I/O
+Heap memory handling
+Clear module separation
 
 
 
