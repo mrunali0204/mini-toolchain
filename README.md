@@ -6,3 +6,4 @@ Mini educational C-like toolchain implementing preprocessor, compiler, assembler
 Development is currently focused on the mini-preprocessor component.
 
 At this stage, the preprocessor implements a basic file-reading interface (reader.h) that loads source files as raw text.
+and raw texts
